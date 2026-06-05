@@ -1,0 +1,6 @@
+easyocr==1.7.1
+opencv-python==4.10.0.84
+imutils==0.5.4
+numpy<2
+scipy<2
+Pillow==10.4.0
